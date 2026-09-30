@@ -22,15 +22,16 @@ Animation Event Editor
 - Integrated character animations with game logic scripting using Animation Events
 - Provided a more detailed editor for Animation Events compared to Unity's default editor
 - Raw event data was parsed and displayed in a more user-friendly way so that artists could customize the events to their liking
+- Animation Events allowed for better synchronization of character animations with sound effects, particles, and material changes
 
 Sprite Atlas Asynchronous Loading
 -
-- Improved game load times by loading large sprite atlases in the background rather than on startup
-- Created debug tools for tracking how long each sprite atlas takes to load
-- Allowed for in-depth analysis on load time differences for each machine
+- Improved game load times by loading large Sprite Atlases in the background rather than on startup
+- Created debug tools for tracking how long each Sprite Atlas takes to load
+- Allowed for in-depth analysis on load time differences for each EGM
 
 Batch Sprite Atlas Editor
 - 
 - Allowed for quickly editing and viewing the properties of large amounts of Sprite Atlas assets
 - While this behavior was built into Unity's Sprite Atlas V1 assets, the behavior is not built in for Unity's Sprite Atlas V2 assets
-- Turned what could've taken multiple hours to edit into something that takes seconds
+- Reduces editing times from up to hours to just seconds
