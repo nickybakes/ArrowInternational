@@ -1,4 +1,4 @@
-# Unity Software Engineer at Arrow International
+# Software Engineer and Unity Developer at Arrow International
 While working at Arrow International from April to September 2026, I shipped 3 games and developed various internal tools to aid with development. Because of my NDA, I cannot provide explicit details or screenshots.
 
 # Game Mechanics and Features
